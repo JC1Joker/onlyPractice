@@ -5,8 +5,8 @@
 
 #### 🌤list
 
-- [ ] Java
-- [ ] HTML
+- [x] Java
+- [x] HTML
 - [ ] Python
 - [ ] C
 - [ ] ~~Go~~
