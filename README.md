@@ -7,6 +7,7 @@
 
 - [x] Java
 - [x] HTML
+- [x] SQL
 - [ ] Python
 - [ ] C
 - [ ] ~~Go~~
