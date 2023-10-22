@@ -13,3 +13,9 @@
 - [ ] ~~Go~~
 - [ ] ~~R~~
 
+-----
+
+> "SQL is considered as a *data* language by Linguist and only *programming* languages are part of the statistics."
+
+
+
